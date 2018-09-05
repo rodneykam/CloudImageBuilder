@@ -1,0 +1,11 @@
+name: CloudImageBuilder
+promotion: Simple
+version: Manual
+id: CloudImageBuilder
+description: A description of some sorts
+organization: Clinical Network
+product-suite: Tools
+product: Release Engineering
+
+repository:
+  url: https://github.relayhealth.com/tools/CloudImageBuilder.git

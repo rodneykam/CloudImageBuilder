@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <IsPackable>false</IsPackable>
+    <PublishDir>../../../target/tests/functional/CloudImageBuilder.FunctionalTests/$(TargetFramework)</PublishDir>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\CloudImageBuilder.Core\CloudImageBuilder.Core.csproj" />
+  </ItemGroup>
+
+</Project>

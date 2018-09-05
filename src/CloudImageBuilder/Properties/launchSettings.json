@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CloudImageBuilder": {
+      "commandName": "Project",
+      "commandLineArgs": "help execute"
+    }
+  }
+}
